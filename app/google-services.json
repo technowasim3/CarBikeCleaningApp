@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016047162080",
+    "firebase_url": "https://car-wash-ca672.firebaseio.com",
+    "project_id": "car-wash-ca672",
+    "storage_bucket": "car-wash-ca672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016047162080:android:1360f897dea1c9a1b73685",
+        "android_client_info": {
+          "package_name": "com.example.carbikecleaningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016047162080-4sudgnak9qdjjj56cnn5tvbn4js761he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3nqNO7sj2lIFtwcKhngjezCOPISVXuXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016047162080-4sudgnak9qdjjj56cnn5tvbn4js761he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
